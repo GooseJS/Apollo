@@ -1,0 +1,12 @@
+[submodule "lib/GSTL"]
+	path = lib/GSTL
+	url = https://github.com/GooseJS/GSTL.git
+[submodule "lib/gl3w"]
+	path = lib/gl3w
+	url = https://github.com/skaslev/gl3w
+[submodule "lib/cotire"]
+	path = lib/cotire
+	url = https://github.com/sakra/cotire
+[submodule "lib/mglib"]
+	path = lib/mglib
+	url = https://github.com/mattiasgustavsson/libs
